@@ -35,7 +35,7 @@ pip install seaborn
 pip install scikit-learn
 ```
 ## Usage
-To use this project, you can download or clone the repository to your local machine:
+To use this project, you can download or clone the repository to your local machine and run the notebook cell by cell.
 ```bash 
 https://github.com/MuneebUllah181222/EDA-on-Startup-Acquistion-Status-Modeling-on-Crunchbase-Data.git
 ```
