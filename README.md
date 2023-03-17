@@ -37,7 +37,7 @@ pip install scikit-learn
 ## Usage
 To use this project, you can download or clone the repository to your local machine:
 ```bash 
-git clone https://github.com/yourusername/EDA-on-Startup-Acquistion-Status-Modeling-on-Crunchbase-Data.git
+https://github.com/MuneebUllah181222/EDA-on-Startup-Acquistion-Status-Modeling-on-Crunchbase-Data.git
 ```
 ## Data
 The data used in this project was obtained from Crunchbase, a platform for discovering business information about private and public companies. The dataset contains information on various startups, including their acquisition status, funding, and services provided.
